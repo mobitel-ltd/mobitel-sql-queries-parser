@@ -1,0 +1,30 @@
+{
+  "name": "mobitel-sql-queries-parser",
+  "version": "1.0.0",
+  "description": "NodeJs module for parsing special formatted sql file into object",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "eslint --quiet --ignore-pattern '/test/' .",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mobitel-ltd/mobitel-sql-queries-parser.git"
+  },
+  "keywords": [
+    "parse",
+    "parser",
+    "sql",
+    "file",
+    "query",
+    "db",
+    "object",
+    "mobitel"
+  ],
+  "author": "Dmitry Furman aka PragmaWolf, Mobitel Ltd <pragmawolf@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mobitel-ltd/mobitel-sql-queries-parser/issues"
+  },
+  "homepage": "https://github.com/mobitel-ltd/mobitel-sql-queries-parser#readme"
+}
